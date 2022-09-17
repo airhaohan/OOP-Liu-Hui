@@ -1,6 +1,6 @@
 # OOP-Liu-Hui
-### 👋 Hello ! ! !
-#### 🔥 Here is the most comprehensive homework answer of OOP(C++) of Ms. Liu midst the entire network ! ! 🚀
-#### Including 3️⃣ ICEs (algorithms regarded), 9️⃣ HWs and the Term Project (5️⃣ steps regarding realizing the BigInt class)
-#### 😁 I got an A in the final exam, so
-#### Don't hesitate to look for referance if you cannot manage these tasks yourself ! ! !
+### 👋 Bello ! ! !
+#### 🔥 Here is the most comprehensive homework answer of OOP of Ms. Liu throughout the entire Internet ! ! 🚀
+#### Including 3️⃣ ICEs (basic algorithms regarded), 9️⃣ HWs and the Term Project (5️⃣ steps  of realizing the BigInt class)
+#### 😁 I got an A in the final examination, so
+#### Don't hesitate to look for referance if you are confronted with problems when managing these tasks yourself ! ! !
